@@ -1,4 +1,4 @@
-Useful utils for [gist.cafe](https://gist.cafe) Apps.
+Useful [gist.cafe](https://gist.cafe) utils for PHP Apps.
 
 ## Usage
 
