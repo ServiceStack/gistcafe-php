@@ -5,6 +5,8 @@ Useful [gist.cafe](https://gist.cafe) utils for PHP Apps.
 Simple Usage Example:
 
 ```php
+require __DIR__ . '/vendor/autoload.php';
+
 use gistcafe\Inspect;
 
 $orgName = "php";
