@@ -2,7 +2,7 @@
     "name": "servicestack/gistcafe",
     "description": "gist.cafe utils for PHP",
     "type": "library",
-    "license": "BSD 2-Clause",
+    "license": "BSD-3-Clause-Attribution",
     "authors": [
         {
             "name": "ServiceStack, Inc.",
